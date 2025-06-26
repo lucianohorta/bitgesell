@@ -1,7 +1,6 @@
-# Take‑Home Assessment
+# BITGESELL
 
-Welcome, candidate! This project contains **intentional issues** that mimic real‑world scenarios.
-Your task is to refactor, optimize, and fix these problems.
+This project contains **intentional issues** that mimic real‑world scenarios.
 
 ## Objectives
 
