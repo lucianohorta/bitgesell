@@ -1,7 +1,7 @@
 [Read the full solution here →](SOLUTION.md)
 
-![](1.jpg)
-![](2.jpg)
+![](1.png)
+![](2.png)
 
 
 # Take‑Home Assessment
