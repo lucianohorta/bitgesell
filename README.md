@@ -1,3 +1,6 @@
+[Read the full solution here →](SOLUTION.md)
+
+
 # Take‑Home Assessment
 
 Welcome, candidate! This project contains **intentional issues** that mimic real‑world scenarios.
