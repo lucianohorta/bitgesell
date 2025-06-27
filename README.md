@@ -1,5 +1,8 @@
 [Read the full solution here →](SOLUTION.md)
 
+![](1.jpg)
+![](2.jpg)
+
 
 # Take‑Home Assessment
 
