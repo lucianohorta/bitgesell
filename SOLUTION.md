@@ -1,5 +1,16 @@
 # SOLUTION.md
 
+PS: To test pagination visually, I created a utility that generates dummy items.  
+Simply run the following command from inside the `frontend` folder:
+
+```bash
+node src/utils/generateDummyItems.js
+```
+To reset to the previous list (clear all dummy items), run:
+```bash
+node src/utils/resetDummyItems.js
+```
+
 ## Backend
 
 ### Refactor blocking I/O
